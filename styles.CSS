@@ -1,0 +1,33 @@
+
+body{
+     background-color: #241C00;
+  }
+
+
+  #wrapperDiv{
+  margin:auto;
+  width:1000px;
+  height:850px;
+  border: black solid 2px;
+  margin-top: 50px;
+  background-color: black;
+}
+
+#menuDiv{
+  width:1000px;
+  height:100px;
+  float:left;
+  background-color: Olive;
+}
+
+#infoDiv{
+  width:100px;
+  height:750px;
+  float:left;
+  background-color: #C88425;
+}
+
+#canvas{
+    float:left;
+    //background-color: rgba(0, 200, 255, 0.3);
+}
